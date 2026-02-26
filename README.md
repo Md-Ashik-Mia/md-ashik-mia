@@ -1,134 +1,130 @@
 <!-- ===================================================== -->
-<!--                     ANIMATED HERO                     -->
+<!--                    PREMIUM HERO                       -->
 <!-- ===================================================== -->
 
 <h1 align="center">Md Ashik Mia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Scalable+Architecture+Builder;Next.js+%7C+NestJS+%7C+MongoDB;Production-Ready+Applications;Clean+Code+%7C+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Scalable+Backend+Architect;Next.js+%7C+NestJS+%7C+MongoDB;Production-Ready+Applications" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Ashik-Mia&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 ```ts
 const ashik = {
   role: "Full Stack Developer",
-  specialization: "Scalable & Production-Ready Applications",
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "NestJS", "Express"],
+  focus: "Scalable Architecture & Secure Systems",
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "NestJS"],
   database: ["MongoDB"],
-  authentication: ["JWT", "Role-Based Access Control"],
-  deployment: ["Vercel"],
+  authentication: ["JWT", "RBAC"],
+  deployment: ["Vercel"]
 };
 ```
 
-🚀 I design and build modern web applications with **secure backend systems, scalable architecture, and performance-focused frontend development.**
-
-I focus on:
-- Clean architecture  
-- Secure authentication systems  
-- RESTful APIs  
-- Production-level deployments  
-- Real-world client solutions  
+🚀 I build production-ready web applications with clean architecture, secure backend systems, and modern UI performance optimization.
 
 ---
 
 # 🌟 Personal Flagship Project
 
-## 🥇 E-HealthCare – Full Industry-Level Architecture
+## 🏥 E-HealthCare System
 
-🌐 Frontend Live: https://e-health-care-front-end.vercel.app/  
-💻 Frontend Repo: https://github.com/Md-Ashik-Mia/E-HealthCare-FrontEnd  
-💻 Backend Repo: https://github.com/Md-Ashik-Mia/E-HealthCare-Backend  
+> Full Industry-Level Architecture (Personal Project)
 
-### 🔥 Highlights
-
+### 🔥 Features
 - Role-Based Authentication (Admin / Doctor / Patient)
 - JWT Security
-- Secure RESTful APIs
-- MongoDB Integration
-- NestJS Backend Architecture
-- Industry-standard folder structure
-- Fully responsive UI
+- RESTful APIs
+- MongoDB + NestJS Backend
+- Scalable Folder Structure
 
-> 💡 This is my personal architecture project demonstrating production-level backend and frontend structure.
+<p align="left">
+  <a href="https://e-health-care-front-end.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Frontend-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/E-HealthCare-FrontEnd">
+    <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/E-HealthCare-Backend">
+    <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-# 💼 Client & Contribution Projects
+# 💼 Client & Contribution Work
 
-## 🚀 Eduloop – AI Learning Platform (Contribution Project)
+## 🤖 Eduloop – AI Learning Platform (Contribution)
 
-🌐 Live: https://extrahanden.ai/  
-💻 Code: https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi  
+<p>
+  <a href="https://extrahanden.ai/">
+    <img src="https://img.shields.io/badge/Live%20Platform-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi">
+    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-✔ AI-powered learning platform  
+✔ AI-powered learning system  
 ✔ Production deployment  
-✔ Authentication system  
 ✔ International collaboration  
 
 ---
 
-## 🌍 Backpage Liberia (Contribution Project)
+## 🌍 Backpage Liberia (Contribution)
 
-🌐 Live: https://www.bpliberia.com/  
-💻 Code: https://github.com/ProgEuler/backpage-liberia  
+<p>
+  <a href="https://www.bpliberia.com/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/ProgEuler/backpage-liberia">
+    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-✔ Classified marketplace  
+✔ Marketplace platform  
 ✔ SEO optimized  
-✔ Real production environment  
-✔ Team collaboration  
+✔ Production environment  
 
 ---
 
 ## 🏢 Wahejan (Client Project)
 
-🌐 Live: https://wahejan.vercel.app/  
-💻 Repo: https://github.com/Md-Ashik-Mia/Wahejan  
-
-✔ Professional business website  
-✔ Clean UI  
-✔ Responsive design  
-
----
-
-## 🏥 Clinic Ana (Spain Client Project)
-
-🌐 Live: https://anaespanafisioterapia.com/  
-💻 Repo: https://github.com/Md-Ashik-Mia/Clinic-Ana  
-
-✔ Medical clinic website  
-✔ Optimized performance  
-✔ Production ready  
+<p>
+  <a href="https://wahejan.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Wahejan">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## ✨ Additional Client Projects
+## 🏥 Clinic Ana (Spain Client)
 
-### 🌄 Heaven On Earth
-🌐 https://heaven-on-earth.vercel.app/  
-💻 https://github.com/Md-Ashik-Mia/Heaven-On-Earth  
-
-### 💰 CapitalizeNow
-🌐 https://capitalize-now.vercel.app/  
-💻 https://github.com/Md-Ashik-Mia/CapitalizeNow  
+<p>
+  <a href="https://anaespanafisioterapia.com/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Clinic-Ana">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,mongodb,tailwind,git,github,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,mongodb,tailwind,git,github,vercel&perline=5" />
 </p>
 
 ---
@@ -146,7 +142,7 @@ I focus on:
 
 ---
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Md-Ashik-Mia/Md-Ashik-Mia/output/github-contribution-grid-snake-dark.svg"/>
@@ -154,12 +150,11 @@ I focus on:
 
 ---
 
-# 🎯 What I’m Open To
+# 🎯 Open To Opportunities
 
 ✔ Remote Full Stack Roles  
 ✔ SaaS & Startup Development  
 ✔ Backend Architecture Projects  
-✔ Long-Term International Collaboration  
 
 ---
 
@@ -168,5 +163,5 @@ I focus on:
 </p>
 
 <p align="center">
-  🚀 Building Secure • Scalable • Production-Ready Applications
+  🚀 Secure • Scalable • Production-Ready Applications
 </p>
