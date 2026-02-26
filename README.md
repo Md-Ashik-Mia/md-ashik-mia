@@ -1,11 +1,15 @@
 <!-- ===================================================== -->
-<!--                     HERO SECTION                      -->
+<!--                     ANIMATED HERO                     -->
 <!-- ===================================================== -->
 
 <h1 align="center">Md Ashik Mia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Next.js+%7C+NestJS+%7C+MongoDB;Scalable+Production+Applications;Clean+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Scalable+Architecture+Builder;Next.js+%7C+NestJS+%7C+MongoDB;Production-Ready+Applications;Clean+Code+%7C+Secure+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=header"/>
 </p>
 
 <p align="center">
@@ -16,138 +20,108 @@
 
 # 🧠 About Me
 
-I am a **Full Stack Developer** passionate about building scalable, secure, and production-ready web applications.  
-I specialize in modern frontend development with **Next.js & React**, and backend architecture using **NestJS & Node.js**.
-
-I focus on:
-
-- Clean and maintainable architecture  
-- Secure authentication systems (JWT & Role-Based Access)  
-- RESTful API design  
-- Scalable backend structure  
-- Performance optimization  
-- Real-world production deployments  
-
----
-
-## 💻 Technical Profile
-
 ```ts
 const ashik = {
   role: "Full Stack Developer",
+  specialization: "Scalable & Production-Ready Applications",
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "NestJS", "Express"],
   database: ["MongoDB"],
   authentication: ["JWT", "Role-Based Access Control"],
-  tools: ["Git", "GitHub"],
   deployment: ["Vercel"],
-  focus: "Scalable & Production-Ready Applications"
 };
 ```
 
----
+🚀 I design and build modern web applications with **secure backend systems, scalable architecture, and performance-focused frontend development.**
 
-# 🏆 Featured & Ranked Projects
-
-## 🥇 1️⃣ Eduloop – AI Learning Platform (Contribution Project)
-
-🌐 Live: https://extrahanden.ai/  
-💻 Code: https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi  
-
-**Highlights:**
-- AI-powered learning platform  
-- Authentication system  
-- Production deployment  
-- International team collaboration  
-- Real client environment  
+I focus on:
+- Clean architecture  
+- Secure authentication systems  
+- RESTful APIs  
+- Production-level deployments  
+- Real-world client solutions  
 
 ---
 
-## 🥈 2️⃣ E-HealthCare – Full Industry Architecture
+# 🌟 Personal Flagship Project
+
+## 🥇 E-HealthCare – Full Industry-Level Architecture
 
 🌐 Frontend Live: https://e-health-care-front-end.vercel.app/  
 💻 Frontend Repo: https://github.com/Md-Ashik-Mia/E-HealthCare-FrontEnd  
 💻 Backend Repo: https://github.com/Md-Ashik-Mia/E-HealthCare-Backend  
 
-**Architecture Features:**
-- Role-Based Authentication (Admin / Doctor / Patient)  
-- JWT Security Implementation  
-- Secure RESTful API  
-- MongoDB Integration  
-- NestJS Backend Architecture  
-- Industry-standard folder structure  
+### 🔥 Highlights
+
+- Role-Based Authentication (Admin / Doctor / Patient)
+- JWT Security
+- Secure RESTful APIs
+- MongoDB Integration
+- NestJS Backend Architecture
+- Industry-standard folder structure
+- Fully responsive UI
+
+> 💡 This is my personal architecture project demonstrating production-level backend and frontend structure.
 
 ---
 
-## 🥉 3️⃣ Backpage Liberia (Contribution Project)
+# 💼 Client & Contribution Projects
+
+## 🚀 Eduloop – AI Learning Platform (Contribution Project)
+
+🌐 Live: https://extrahanden.ai/  
+💻 Code: https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi  
+
+✔ AI-powered learning platform  
+✔ Production deployment  
+✔ Authentication system  
+✔ International collaboration  
+
+---
+
+## 🌍 Backpage Liberia (Contribution Project)
 
 🌐 Live: https://www.bpliberia.com/  
 💻 Code: https://github.com/ProgEuler/backpage-liberia  
 
-**Highlights:**
-- Classified marketplace platform  
-- SEO optimization  
-- Real production deployment  
-- Team-based collaboration  
+✔ Classified marketplace  
+✔ SEO optimized  
+✔ Real production environment  
+✔ Team collaboration  
 
 ---
 
-# 💼 Client Projects
-
-## 4️⃣ Wahejan
+## 🏢 Wahejan (Client Project)
 
 🌐 Live: https://wahejan.vercel.app/  
 💻 Repo: https://github.com/Md-Ashik-Mia/Wahejan  
 
-- Professional business website  
-- Clean UI & fully responsive  
-- Production deployment  
+✔ Professional business website  
+✔ Clean UI  
+✔ Responsive design  
 
 ---
 
-## 5️⃣ Clinic Ana (Spain Client)
+## 🏥 Clinic Ana (Spain Client Project)
 
 🌐 Live: https://anaespanafisioterapia.com/  
 💻 Repo: https://github.com/Md-Ashik-Mia/Clinic-Ana  
 
-- Medical clinic website  
-- Optimized performance  
-- Responsive design  
-- Production-ready  
+✔ Medical clinic website  
+✔ Optimized performance  
+✔ Production ready  
 
 ---
 
-# 🚀 Personal & Additional Projects
+## ✨ Additional Client Projects
 
-## 6️⃣ E-HealthCare Backend (API System)
+### 🌄 Heaven On Earth
+🌐 https://heaven-on-earth.vercel.app/  
+💻 https://github.com/Md-Ashik-Mia/Heaven-On-Earth  
 
-💻 Repo: https://github.com/Md-Ashik-Mia/E-HealthCare-Backend  
-
-- NestJS backend system  
-- JWT authentication  
-- Secure API endpoints  
-- MongoDB database integration  
-
----
-
-## 7️⃣ Heaven On Earth
-
-🌐 Live: https://heaven-on-earth.vercel.app/  
-💻 Repo: https://github.com/Md-Ashik-Mia/Heaven-On-Earth  
-
-- Modern animated landing page  
-- Clean UI design  
-
----
-
-## 8️⃣ CapitalizeNow
-
-🌐 Live: https://capitalize-now.vercel.app/  
-💻 Repo: https://github.com/Md-Ashik-Mia/CapitalizeNow  
-
-- Startup landing page  
-- Conversion-focused design  
-- Responsive layout  
+### 💰 CapitalizeNow
+🌐 https://capitalize-now.vercel.app/  
+💻 https://github.com/Md-Ashik-Mia/CapitalizeNow  
 
 ---
 
@@ -162,52 +136,37 @@ const ashik = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Ashik-Mia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ashik-Mia&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Ashik-Mia&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ashik-Mia&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ashik-Mia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ashik-Mia&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Ashik-Mia/Md-Ashik-Mia/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Md-Ashik-Mia/Md-Ashik-Mia/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🤝 Contribution Experience
-
-- Eduloop – AI Learning Platform  
-- Backpage Liberia – Marketplace Platform  
-
-I have worked in collaborative production environments with real clients and international teams.
-
----
-
-# 💼 Open To Opportunities
+# 🎯 What I’m Open To
 
 ✔ Remote Full Stack Roles  
-✔ Startup & SaaS Development  
-✔ Long-Term International Projects  
-✔ Backend Architecture & API Development  
+✔ SaaS & Startup Development  
+✔ Backend Architecture Projects  
+✔ Long-Term International Collaboration  
 
 ---
 
-# 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/Md-Ashik-Mia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=120&section=footer"/>
 </p>
 
----
-
 <p align="center">
-  🚀 Building Secure • Scalable • Production-Ready Web Applications
+  🚀 Building Secure • Scalable • Production-Ready Applications
 </p>
