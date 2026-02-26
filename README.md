@@ -1,71 +1,126 @@
-# 👋 Hello, I'm Md Ashik Mia
+<h1 align="center">Hi 👋, I'm Md Ashik Mia</h1>
+<h3 align="center">Full Stack Developer | Next.js | NestJS | MongoDB | Production Ready Applications</h3>
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** from **Bangladesh**, passionate about building scalable and maintainable web applications. I enjoy clean architecture, secure authentication systems, and exploring new technologies.
-
----
-
-## 🛠 Technologies & Tools
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Vite  
-- **Backend:** Node.js, Express.js  
-- **Styling:** Tailwind CSS, DaisyUI  
-- **Database:** MongoDB  
-- **Version Control:** Git, GitHub  
+<p align="center">
+  Building scalable, real-world, industry-standard applications.
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 About Me
 
-Here are some of my notable projects ranked by experience and complexity:
-
-1. **[Wahejan](https://github.com/Md-Ashik-Mia/Wahejan)**  
-   A complete project management platform for [client/project name]. Implemented advanced functionality and responsive design.  
-
-2. **[E-HealthCare Frontend](https://github.com/Md-Ashik-Mia/E-HealthCare-FrontEnd)**  
-   Personal university project, built to industry standards with clean architecture for healthcare management.  
-
-3. **[E-HealthCare Backend](https://github.com/Md-Ashik-Mia/E-HealthCare-Backend)**  
-   Backend API for the E-HealthCare system with secure authentication and CRUD operations.  
-
-4. **[Clinic-Ana](https://github.com/Md-Ashik-Mia/Clinic-Ana)**  
-   Clinic management system with appointment scheduling, patient records, and admin dashboard.  
-
-5. **[Heaven-On-Earth](https://github.com/Md-Ashik-Mia/Heaven-On-Earth)**  
-   Creative project showcasing frontend and backend integration skills.  
-
-6. **[CapitalizeNow](https://github.com/Md-Ashik-Mia/CapitalizeNow)**  
-   Web application for financial management and data visualization.  
-
-7. **[Eduloop-Samir-Messoussi](https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi)**  
-   Educational platform developed in collaboration with a team, demonstrating project teamwork skills.  
-
-8. **[Backpage-Liberia](https://github.com/ProgEuler/backpage-liberia)**  
-   Personal or open-source project with creative implementations in web development.  
-
-> And many more projects available in my [GitHub repositories](https://github.com/Md-Ashik-Mia).
+- 💻 Full Stack JavaScript Developer
+- ⚡ Specialized in **Next.js, React, NestJS, MongoDB**
+- 🔐 Experience with Authentication, Protected Routes, Role-based Systems
+- 🌍 Worked on International Client Projects
+- 🎯 Focused on Clean Architecture & Production-Level Code
 
 ---
 
-## 📊 GitHub Stats
-
-![Md Ashik Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Ashik-Mia&show_icons=true&theme=radical)
+# 🏆 Featured Projects (Ranked)
 
 ---
 
-## 📫 Get in Touch
+## 🥇 1️⃣ Eduloop – AI Learning Platform (Contribution Project)
 
-- **Email:** [mdashikmia69@gmail.com](mailto:mdashikmia69@gmail.com)  
-- **LinkedIn:** [akash-mahmud-ashik](https://www.linkedin.com/in/akash-mahmud-ashik)  
-- **Instagram:** [its_ashiik](https://www.instagram.com/its_ashiik/)  
-- **Facebook:** [akashmahmud.ashik](https://www.facebook.com/akashmahmud.ashik)
+🔗 Live: https://extrahanden.ai/  
+💻 GitHub: https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi  
+
+**Role:** Full Stack Contributor  
+**Type:** International Client Project  
+
+✔ AI Integrated Learning System  
+✔ Modern UI/UX  
+✔ Authentication System  
+✔ Production Deployment  
 
 ---
 
-## 🏆 Achievements
+## 🥈 2️⃣ E-HealthCare (Industry Standard University Project)
 
-- Actively contributing to open-source projects  
-- Multiple GitHub profile achievements & badges  
+🔗 Live: https://e-health-care-front-end.vercel.app/  
+💻 Frontend: https://github.com/Md-Ashik-Mia/E-HealthCare-FrontEnd  
+💻 Backend: https://github.com/Md-Ashik-Mia/E-HealthCare-Backend  
+
+✔ Role-based Authentication (Admin / Doctor / Patient)  
+✔ JWT Security  
+✔ MongoDB + REST API  
+✔ Scalable Architecture  
 
 ---
 
-![Md Ashik Mia](./profile-image.png)  <!-- Optional: include your uploaded profile image -->
+## 🥉 3️⃣ Backpage Liberia (Contribution Project)
+
+🔗 Live: https://www.bpliberia.com/  
+💻 GitHub: https://github.com/ProgEuler/backpage-liberia  
+
+**Role:** Contributor  
+
+✔ Classified Ads Platform  
+✔ Dynamic Listings  
+✔ Production Environment  
+✔ SEO Optimized  
+
+---
+
+## 🏅 4️⃣ Wahejan (Client Project)
+
+🔗 Live: https://wahejan.vercel.app/  
+💻 GitHub: https://github.com/Md-Ashik-Mia/Wahejan  
+
+✔ Professional Business Website  
+✔ Modern UI  
+✔ Responsive Design  
+
+---
+
+## 🏅 5️⃣ Clinic Ana (Client Project – Spain)
+
+🔗 Live: https://anaespanafisioterapia.com/  
+💻 GitHub: https://github.com/Md-Ashik-Mia/Clinic-Ana  
+
+✔ Medical Clinic Website  
+✔ Performance Optimized  
+✔ Clean Responsive UI  
+
+---
+
+## 🏅 6️⃣ E-HealthCare Backend (API Architecture)
+
+💻 GitHub: https://github.com/Md-Ashik-Mia/E-HealthCare-Backend  
+
+✔ NestJS Backend  
+✔ JWT Auth  
+✔ RESTful API  
+✔ MongoDB Integration  
+
+---
+
+## 🏅 7️⃣ Heaven On Earth
+
+🔗 Live: https://heaven-on-earth.vercel.app/  
+💻 GitHub: https://github.com/Md-Ashik-Mia/Heaven-On-Earth  
+
+✔ Modern Landing Page  
+✔ Animation & Clean UI  
+
+---
+
+## 🏅 8️⃣ CapitalizeNow
+
+🔗 Live: https://capitalize-now.vercel.app/  
+💻 GitHub: https://github.com/Md-Ashik-Mia/CapitalizeNow  
+
+✔ Startup Landing Page  
+✔ Conversion Focused Design  
+
+---
+
+# 🛠️ Tech Stack
+
+```bash
+Frontend:  React.js | Next.js | TailwindCSS | TypeScript
+Backend:   Node.js | NestJS | Express.js
+Database:  MongoDB | Mongoose
+Auth:      JWT | NextAuth | Role-Based Access
+DevOps:    Vercel | GitHub | Deployment Pipelines
