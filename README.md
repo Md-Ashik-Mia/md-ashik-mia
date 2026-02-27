@@ -20,23 +20,19 @@
 
 ## 🧠 About Me
 
-I am **Md Ashik Mia**, a passionate and dedicated **Full Stack Developer** focused on building **scalable, secure, and production-ready web applications**. I specialize in frontend development using **React** and **Next.js**, combined with backend architecture using **Node.js** and **NestJS**. My mission is not just writing code but creating clean, maintainable systems ready for real-world use.  
+I am **Md Ashik Mia**, a passionate Full Stack Developer focused on building **scalable, secure, and production-ready web applications**. I specialize in frontend development using **React** and **Next.js**, combined with backend architecture using **Node.js** and **NestJS**.  
 
-I have experience working on **personal architecture projects**, **client projects**, and **international contribution projects**, which strengthened my skills in **authentication systems, role-based access control, RESTful API design, and scalable backend structures** using **MongoDB**.  
+My mission is not just writing code but creating **clean, maintainable systems ready for real-world use**. I have developed **full-fledged projects** with **role-based authentication, JWT security, RESTful APIs, and scalable MongoDB backends**, alongside **modern, responsive frontend interfaces**.  
 
-I focus on writing **clean, structured code** and following **industry-standard architecture practices**. I enjoy building **secure backend systems** with **JWT authentication**, **role-based access control**, and **scalable folder structures**. My goal is long-term scalability and performance.  
-
-On the frontend, I create **modern, responsive UI** with performance optimization and user-centric design.  
-
-Currently, I am refining my expertise in **production deployment strategies, advanced backend architecture, and scalable system design**, aiming to build **impactful digital products used globally**.
+I focus on **clean, structured code**, **secure backend systems**, and **performance-optimized UI/UX**. My long-term goal is to design and deploy **impactful digital products** used globally, applying best industry practices and scalable architecture principles.
 
 ---
 
-# 🌟 Personal Projects
+# 🌟 Flagship Project
 
-## 🏥 E-HealthCare System (Flagship Personal Project)
+## 🏥 E-HealthCare System
 
-> Full Industry-Level Architecture
+> Full Industry-Level Architecture (Personal Project)
 
 ### 🔥 Features
 - Role-Based Authentication (Admin / Doctor / Patient)  
@@ -59,7 +55,41 @@ Currently, I am refining my expertise in **production deployment strategies, adv
 
 ---
 
-# 💼 Client Projects
+# 💼 Other Projects
+
+## 🤖 Eduloop – AI Learning Platform
+
+<p>
+  <a href="https://extrahanden.ai/">
+    <img src="https://img.shields.io/badge/Live%20Platform-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Eduloop-Samir-Messoussi">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+✔ AI-powered learning system  
+✔ Production deployment  
+✔ Clean architecture  
+
+---
+
+## 🌐 Backpage Liberia
+
+<p>
+  <a href="https://www.bpliberia.com/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/backpage-liberia">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+✔ Classified marketplace platform  
+✔ SEO optimized  
+✔ Production ready  
+
+---
 
 ## 🏢 Wahejan
 
@@ -73,11 +103,11 @@ Currently, I am refining my expertise in **production deployment strategies, adv
 </p>
 
 ✔ Professional business website  
-✔ Clean UI & fully responsive  
+✔ Clean UI & responsive design  
 
 ---
 
-## 🏥 Clinic Ana (Spain Client)
+## 🏥 Clinic Ana
 
 <p>
   <a href="https://anaespanafisioterapia.com/">
@@ -94,9 +124,8 @@ Currently, I am refining my expertise in **production deployment strategies, adv
 
 ---
 
-## ✨ Additional Client Projects
+## 🌄 Heaven On Earth
 
-### 🌄 Heaven On Earth
 <p>
   <a href="https://heaven-on-earth.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
@@ -106,7 +135,13 @@ Currently, I am refining my expertise in **production deployment strategies, adv
   </a>
 </p>
 
-### 💰 CapitalizeNow
+✔ Modern animated landing page  
+✔ Responsive design  
+
+---
+
+## 💰 CapitalizeNow
+
 <p>
   <a href="https://capitalize-now.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
@@ -116,41 +151,8 @@ Currently, I am refining my expertise in **production deployment strategies, adv
   </a>
 </p>
 
----
-
-# 🌍 Contribution Projects
-
-## 🤖 Eduloop – AI Learning Platform
-
-<p>
-  <a href="https://extrahanden.ai/">
-    <img src="https://img.shields.io/badge/Live%20Platform-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/BodruddozaRedoy/Eduloop-Samir-Messoussi">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-✔ AI-powered learning system  
-✔ Production deployment  
-✔ International collaboration  
-
----
-
-## 🌐 Backpage Liberia
-
-<p>
-  <a href="https://www.bpliberia.com/">
-    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/ProgEuler/backpage-liberia">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-✔ Classified marketplace platform  
-✔ SEO optimized  
-✔ Production environment  
+✔ Startup landing page  
+✔ Conversion-focused layout  
 
 ---
 
