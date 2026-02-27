@@ -20,32 +20,30 @@
 
 ## 🧠 About Me
 
-I am **Md Ashik Mia**, a passionate and dedicated **Full Stack Developer** who focuses on building **scalable, secure, and production-ready web applications**. I specialize in modern frontend development using **React** and **Next.js**, combined with powerful backend architecture using **Node.js** and **NestJS**. My goal is not just to write code, but to design clean systems that are maintainable, efficient, and ready for real-world usage.  
+I am **Md Ashik Mia**, a passionate and dedicated **Full Stack Developer** focused on building **scalable, secure, and production-ready web applications**. I specialize in frontend development using **React** and **Next.js**, combined with backend architecture using **Node.js** and **NestJS**. My mission is not just writing code but creating clean, maintainable systems ready for real-world use.  
 
-Over time, I have worked on both **personal architecture projects** and **real client production systems**, which helped me develop a strong understanding of **authentication systems, role-based access control, RESTful API design, and scalable backend structures** using **MongoDB**. I care deeply about writing clean, structured code and following **industry-standard architecture practices**.  
+I have experience working on **personal architecture projects**, **client projects**, and **international contribution projects**, which strengthened my skills in **authentication systems, role-based access control, RESTful API design, and scalable backend structures** using **MongoDB**.  
 
-One of my strongest skills is building **secure backend systems**. I enjoy implementing **JWT authentication**, designing **role-based systems** (Admin / User / Custom Roles), and ensuring proper separation of concerns within applications. For me, backend architecture is not just about functionality — it is about **long-term scalability and performance**.  
+I focus on writing **clean, structured code** and following **industry-standard architecture practices**. I enjoy building **secure backend systems** with **JWT authentication**, **role-based access control**, and **scalable folder structures**. My goal is long-term scalability and performance.  
 
-In addition to backend development, I also focus on **modern UI development with performance optimization and responsive design**. I believe that a powerful backend should always be supported by a smooth and intuitive user experience.  
+On the frontend, I create **modern, responsive UI** with performance optimization and user-centric design.  
 
-I have contributed to **international production projects** and worked with **real clients**, which helped me understand collaboration, communication, and professional software delivery standards.  
-
-Currently, I am focused on improving my expertise in **scalable system design, production deployment strategies, and advanced backend architecture patterns**. My long-term vision is to grow as a **high-level software engineer** who builds impactful, secure, and globally used digital products.  
+Currently, I am refining my expertise in **production deployment strategies, advanced backend architecture, and scalable system design**, aiming to build **impactful digital products used globally**.
 
 ---
 
-# 🌟 Personal Flagship Project
+# 🌟 Personal Projects
 
-## 🏥 E-HealthCare System
+## 🏥 E-HealthCare System (Flagship Personal Project)
 
-> Full Industry-Level Architecture (Personal Project)
+> Full Industry-Level Architecture
 
 ### 🔥 Features
-- Role-Based Authentication (Admin / Doctor / Patient)
-- JWT Security
-- RESTful APIs
-- MongoDB + NestJS Backend
-- Scalable Folder Structure
+- Role-Based Authentication (Admin / Doctor / Patient)  
+- JWT Security  
+- RESTful APIs  
+- MongoDB + NestJS Backend  
+- Scalable Folder Structure  
 
 <p align="left">
   <a href="https://e-health-care-front-end.vercel.app/">
@@ -61,9 +59,68 @@ Currently, I am focused on improving my expertise in **scalable system design, p
 
 ---
 
-# 💼 Client & Contribution Work
+# 💼 Client Projects
 
-## 🤖 Eduloop – AI Learning Platform (Contribution)
+## 🏢 Wahejan
+
+<p>
+  <a href="https://wahejan.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Wahejan">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+✔ Professional business website  
+✔ Clean UI & fully responsive  
+
+---
+
+## 🏥 Clinic Ana (Spain Client)
+
+<p>
+  <a href="https://anaespanafisioterapia.com/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Clinic-Ana">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+✔ Medical clinic website  
+✔ Optimized performance  
+✔ Production ready  
+
+---
+
+## ✨ Additional Client Projects
+
+### 🌄 Heaven On Earth
+<p>
+  <a href="https://heaven-on-earth.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/Heaven-On-Earth">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### 💰 CapitalizeNow
+<p>
+  <a href="https://capitalize-now.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Md-Ashik-Mia/CapitalizeNow">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+# 🌍 Contribution Projects
+
+## 🤖 Eduloop – AI Learning Platform
 
 <p>
   <a href="https://extrahanden.ai/">
@@ -80,7 +137,7 @@ Currently, I am focused on improving my expertise in **scalable system design, p
 
 ---
 
-## 🌍 Backpage Liberia (Contribution)
+## 🌐 Backpage Liberia
 
 <p>
   <a href="https://www.bpliberia.com/">
@@ -91,35 +148,9 @@ Currently, I am focused on improving my expertise in **scalable system design, p
   </a>
 </p>
 
-✔ Marketplace platform  
+✔ Classified marketplace platform  
 ✔ SEO optimized  
 ✔ Production environment  
-
----
-
-## 🏢 Wahejan (Client Project)
-
-<p>
-  <a href="https://wahejan.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/Md-Ashik-Mia/Wahejan">
-    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🏥 Clinic Ana (Spain Client)
-
-<p>
-  <a href="https://anaespanafisioterapia.com/">
-    <img src="https://img.shields.io/badge/Live%20Website-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/Md-Ashik-Mia/Clinic-Ana">
-    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
